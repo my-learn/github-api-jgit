@@ -5,3 +5,5 @@
 - https://stackoverflow.com/questions/19475042/how-to-push-and-pull-java-files-into-git
 - https://segmentfault.com/p/1210000013305124
 - https://www.wty90.com/2018/02/18/git-auto-commit/
+- http://blog.51cto.com/5162886/2094475
+- https://www.cnblogs.com/songshu120/p/6180747.html
